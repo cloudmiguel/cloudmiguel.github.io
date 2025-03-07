@@ -1,200 +1,267 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Miguel G. Franco",
+    "label": "Senior Systems Administrator",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "migumfranco@gmail.com",
+    "phone": "(317) 772-8806",
+    "url": "https://www.linkedin.com/in/migfranco",
+    "summary": "Bilingual IT Professional with 12+ years of experience in cloud systems administration, endpoint management, and security. Expertise in deploying and optimizing hybrid environments using Microsoft Azure, Intune, and Genesys Cloud. Skilled in endpoint procurement, performance benchmarking, and cost-effective hardware solutions, reducing support tickets and improving operational efficiency. Proven ability to lead cross-functional projects, automate workflows, and implement cloud governance frameworks. Passionate about leveraging cloud technologies, automation, and data-driven strategies to enhance performance, security, and scalability.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Westfield",
       "countryCode": "US",
-      "region": "California"
+      "region": "Indiana"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Miguel Franco",
+        "url": "https://www.linkedin.com/in/migfranco"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "VMS BioMarketing",
+      "position": "Senior Systems Administrator",
+      "url": "",
+      "startDate": "2023-08",
+      "endDate": "2025-01",
+      "summary": "Led a company-wide initiative to transition to Lenovo AMD laptops, replacing outdated hardware from multiple vendors, which reduced support tickets by 30% and streamlined endpoint management.",
+      "highlights": [
+        "Orchestrated SOC2 Type II compliance by documenting 100+ controls and security measures.",
+        "Completed an enterprise-wide cloud transformation by migrating on-premises Exchange to Azure.",
+        "Managed the full lifecycle of 350+ endpoints, including procurement, deployment, configuration, and decommissioning."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "VMS BioMarketing",
+      "position": "Systems Administrator",
+      "url": "",
+      "startDate": "2023-01",
+      "endDate": "2023-08",
+      "summary": "Designed and executed comprehensive IT onboarding/offboarding processes, reducing setup time from 4 days to 6 hours through automated workflows.",
+      "highlights": [
+        "Managed hybrid cloud infrastructure across Azure and AWS environments, ensuring 99.9% uptime.",
+        "Streamlined hardware procurement processes, managing a $300k+ annual budget.",
+        "Established cloud governance frameworks and migration patterns for business-critical applications."
+      ]
+    },
+    {
+      "name": "VMS BioMarketing",
+      "position": "Application System Analyst",
+      "url": "",
+      "startDate": "2020-11",
+      "endDate": "2023-01",
+      "summary": "Designed and enhanced Genesys Cloud/PureCloud call infrastructure, including IVR design, call flow management, and architecture development.",
+      "highlights": [
+        "Managed and optimized Salesforce configurations and integrations.",
+        "Led technical troubleshooting efforts for complex tier 2-3 issues across multiple platforms."
+      ]
+    },
+    {
+      "name": "VMS BioMarketing",
+      "position": "Application Support Specialist",
+      "url": "",
+      "startDate": "2019-10",
+      "endDate": "2020-11",
+      "summary": "Provided frontline support for Salesforce, Genesys Cloud, and other business applications, resolving tier 1-2 technical issues.",
+      "highlights": [
+        "Delivered end-user training and created comprehensive documentation for common technical procedures.",
+        "Conducted hardware testing and validation for internal software compatibility."
+      ]
+    },
+    {
+      "name": "IDSolutions",
+      "position": "NOC / Helpdesk Engineer",
+      "url": "",
+      "startDate": "2017-04",
+      "endDate": "2019-07",
+      "summary": "Provided technical support to over 80 internal users and 200+ clients, resolving various hardware and network issues.",
+      "highlights": [
+        "Installed and configured network equipment including Discover, Polycom, and Vidyo codecs."
+      ]
+    },
+    {
+      "name": "Service Response Partners, LLC",
+      "position": "Remote Technical Support Agent",
+      "url": "",
+      "startDate": "2016-03",
+      "endDate": "2016-08",
+      "summary": "Provided remote technical / customer support for OpenTable restaurants and diners.",
+      "highlights": [
+        "Resolved technical issues with network configurations and OpenTable software."
+      ]
+    },
+    {
+      "name": "Support.com",
+      "position": "Remote Client Services Technician",
+      "url": "",
+      "startDate": "2015-11",
+      "endDate": "2016-03",
+      "summary": "Provided technical support for English and Spanish speaking clients.",
+      "highlights": [
+        "Educated clients on the use of their home security systems via phone and email instruction."
+      ]
+    },
+    {
+      "name": "Sixson Towers & Troop Insurance Company",
+      "position": "Technical Support Specialist",
+      "url": "",
+      "startDate": "2010-05",
+      "endDate": "2012-05",
+      "summary": "Built, maintained, and upgraded custom office staff computers.",
+      "highlights": [
+        "Installation and troubleshooting of printers, desktops, laptops, and all other hardware."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Western Governor's University",
+      "location": "",
+      "url": "",
+      "area": "Cloud Computing",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2025-07",
+      "score": "",
+      "courses": []
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2022",
+      "issuer": "Amazon Web Services",
+      "url": "",
+      "icon": "fa-solid fa-cloud"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "CompTIA Cloud Admin Professional",
+      "date": "2022",
+      "issuer": "CompTIA",
+      "url": "",
+      "icon": "fa-solid fa-cloud"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "CompTIA Cloud+",
+      "date": "2022",
+      "issuer": "CompTIA",
+      "url": "",
+      "icon": "fa-solid fa-cloud"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "CompTIA Secure Infrastructure Specialist",
+      "date": "2021",
+      "issuer": "CompTIA",
+      "url": "",
+      "icon": "fa-solid fa-shield-alt"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "CompTIA Security+",
+      "date": "2021",
+      "issuer": "CompTIA",
+      "url": "",
+      "icon": "fa-solid fa-shield-alt"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "LE-1: Linux Essentials",
+      "date": "2021",
+      "issuer": "Linux Professional Institute",
+      "url": "",
+      "icon": "fa-brands fa-linux"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "ITIL Foundation Certificate in IT Service Management",
+      "date": "2020",
+      "issuer": "AXELOS",
+      "url": "",
+      "icon": "fa-solid fa-tasks"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "CompTIA IT Operations Specialist",
+      "date": "2020",
+      "issuer": "CompTIA",
+      "url": "",
+      "icon": "fa-solid fa-network-wired"
+    },
+    {
+      "name": "CompTIA A+",
+      "date": "2020",
+      "issuer": "CompTIA",
+      "url": "",
+      "icon": "fa-solid fa-desktop"
+    },
+    {
+      "name": "CompTIA Network+",
+      "date": "2020",
+      "issuer": "CompTIA",
+      "url": "",
+      "icon": "fa-solid fa-network-wired"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Cloud Computing",
+      "level": "Expert",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Microsoft Azure",
+        "AWS",
+        "Hybrid Cloud",
+        "Cloud Governance",
+        "Endpoint Management"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "Expert",
+      "keywords": [
+        "SOC2 Compliance",
+        "Security Frameworks",
+        "Endpoint Security",
+        "Network Security"
+      ]
+    },
+    {
+      "name": "Automation",
+      "level": "Advanced",
+      "keywords": [
+        "Workflow Automation",
+        "Scripting",
+        "DevOps",
+        "CI/CD"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "English",
+      "fluency": "Native"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "Spanish",
+      "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Cloud Technologies",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Hybrid Cloud",
+        "Cloud Security",
+        "Cloud Automation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Data-Driven Strategies",
+      "keywords": [
+        "Data Analysis",
+        "Performance Optimization",
+        "Cost Efficiency"
+      ]
     }
   ]
 }
