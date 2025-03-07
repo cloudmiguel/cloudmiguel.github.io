@@ -210,12 +210,16 @@
   ],
   "interests": [
     {
-      "name": "Cloud Technologies",
-      "keywords": ["Hybrid Cloud", "Cloud Security", "Cloud Automation"]
+      "name": "Homelab",
+      "keywords": ["Red Hat Enterprise Linux", "Multiple Rpi's", "Multiple small servers"]
     },
     {
-      "name": "Data-Driven Strategies",
+      "name": "Plants",
       "keywords": ["Data Analysis", "Performance Optimization", "Cost Efficiency"]
+    },
+    {
+      "name": "Cooking",
+      "keywords": ["Puerto Rican foods (my specialty)", "World Foods", "Fermentations (Water Kefir, Sauerkraut, etc.)"]
     }
   ]
 }
