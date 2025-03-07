@@ -207,33 +207,17 @@
     {
       "name": "Cloud Computing",
       "level": "Expert",
-      "keywords": [
-        "Microsoft Azure",
-        "AWS",
-        "Hybrid Cloud",
-        "Cloud Governance",
-        "Endpoint Management"
-      ]
+      "keywords": ["Microsoft Azure", "AWS", "Hybrid Cloud", "Cloud Governance", "Endpoint Management"]
     },
     {
       "name": "Security",
       "level": "Expert",
-      "keywords": [
-        "SOC2 Compliance",
-        "Security Frameworks",
-        "Endpoint Security",
-        "Network Security"
-      ]
+      "keywords": ["SOC2 Compliance", "Security Frameworks", "Endpoint Security", "Network Security"]
     },
     {
       "name": "Automation",
       "level": "Advanced",
-      "keywords": [
-        "Workflow Automation",
-        "Scripting",
-        "DevOps",
-        "CI/CD"
-      ]
+      "keywords": ["Workflow Automation", "Scripting", "DevOps", "CI/CD"]
     }
   ],
   "languages": [
