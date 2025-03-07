@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work Journeys
-permalink: /work-journeys/
+title: Solutions Showcase
+permalink: /solutions/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
