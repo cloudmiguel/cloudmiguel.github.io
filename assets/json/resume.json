@@ -3,7 +3,7 @@
     "name": "Miguel G. Franco",
     "label": "Senior Systems Administrator",
     "image": "",
-    "email": "migumfranco@gmail.com",
+    "email": "adminMF@proton.me",
     "phone": "(317) 772-8806",
     "url": "https://www.linkedin.com/in/migfranco",
     "summary": "Bilingual IT Professional with 12+ years of experience in cloud systems administration, endpoint management, and security. Expertise in deploying and optimizing hybrid environments using Microsoft Azure, Intune, and Genesys Cloud. Skilled in endpoint procurement, performance benchmarking, and cost-effective hardware solutions, reducing support tickets and improving operational efficiency. Proven ability to lead cross-functional projects, automate workflows, and implement cloud governance frameworks. Passionate about leveraging cloud technologies, automation, and data-driven strategies to enhance performance, security, and scalability.",
@@ -29,12 +29,8 @@
       "url": "",
       "startDate": "2023-08",
       "endDate": "2025-01",
-      "summary": "Led a company-wide initiative to transition to Lenovo hardware, replacing outdated hardware from multiple vendors, which reduced support tickets by 30% and streamlined endpoint management.",
-      "highlights": [
-        "Orchestrated SOC2 Type II compliance by documenting 100+ controls and security measures.",
-        "Completed an enterprise-wide cloud transformation by migrating on-premises Exchange to Azure.",
-        "Managed the full lifecycle of 350+ endpoints, including procurement, deployment, configuration, and decommissioning."
-      ]
+      "summary": "",
+      "highlights": ["Led a company-wide initiative to transition to Lenovo hardware, replacing outdated hardware from multiple vendors, which reduced support tickets by 30% and streamlined endpoint management.", "Orchestrated SOC2 Type II compliance by documenting 100+ controls and security measures.", "Completed an enterprise-wide cloud transformation by migrating on-premises Exchange to Azure.", "Managed the full lifecycle of 350+ endpoints, including procurement, deployment, configuration, and decommissioning."]
     },
     {
       "name": "VMS BioMarketing",
@@ -42,12 +38,8 @@
       "url": "",
       "startDate": "2023-01",
       "endDate": "2023-08",
-      "summary": "Designed and executed comprehensive IT onboarding/offboarding processes, reducing setup time from 4 days to 6 hours through automated workflows.",
-      "highlights": [
-        "Managed hybrid cloud infrastructure across Azure and AWS environments, ensuring 99.9% uptime.",
-        "Streamlined hardware procurement processes, managing a $300k+ annual budget.",
-        "Established cloud governance frameworks and migration patterns for business-critical applications."
-      ]
+      "summary": "TESTER",
+      "highlights": ["Designed and executed comprehensive IT onboarding/offboarding processes, reducing setup time from 4 days to 6 hours through automated workflows.", "Managed hybrid cloud infrastructure across Azure and AWS environments, ensuring 99.9% uptime.", "Streamlined hardware procurement processes, managing a $300k+ annual budget.", "Established cloud governance frameworks and migration patterns for business-critical applications."]
     },
     {
       "name": "VMS BioMarketing",
@@ -55,11 +47,8 @@
       "url": "",
       "startDate": "2020-11",
       "endDate": "2023-01",
-      "summary": "Designed and enhanced Genesys Cloud/PureCloud call infrastructure, including IVR design, call flow management, and architecture development.",
-      "highlights": [
-        "Managed and optimized Salesforce configurations and integrations.",
-        "Led technical troubleshooting efforts for complex tier 2-3 issues across multiple platforms."
-      ]
+      "summary": "TESTERRRSS",
+      "highlights": ["Designed and enhanced Genesys Cloud/PureCloud call infrastructure, including IVR design, call flow management, and architecture development.", "Managed and optimized Salesforce configurations and integrations.", "Led technical troubleshooting efforts for complex tier 2-3 issues across multiple platforms."]
     },
     {
       "name": "VMS BioMarketing",
@@ -67,11 +56,8 @@
       "url": "",
       "startDate": "2019-10",
       "endDate": "2020-11",
-      "summary": "Provided frontline support for Salesforce, Genesys Cloud, and other business applications, resolving tier 1-2 technical issues.",
-      "highlights": [
-        "Delivered end-user training and created comprehensive documentation for common technical procedures.",
-        "Conducted hardware testing and validation for internal software compatibility."
-      ]
+      "summary": "testtsddd",
+      "highlights": ["Provided frontline support for Salesforce, Genesys Cloud, and other business applications, resolving tier 1-2 technical issues.", "Delivered end-user training and created comprehensive documentation for common technical procedures.", "Conducted hardware testing and validation for internal software compatibility."]
     },
     {
       "name": "IDSolutions",
@@ -79,10 +65,8 @@
       "url": "",
       "startDate": "2017-04",
       "endDate": "2019-07",
-      "summary": "Provided technical support to over 80 internal users and 200+ clients, resolving various hardware and network issues.",
-      "highlights": [
-        "Installed and configured network equipment including Discover, Polycom, and Vidyo codecs."
-      ]
+      "summary": "",
+      "highlights": ["Provided technical support to over 80 internal users and 200+ clients, resolving various hardware and network issues.", "Installed and configured network equipment including Discover, Polycom, and Vidyo codecs."]
     },
     {
       "name": "Service Response Partners, LLC",
@@ -90,10 +74,8 @@
       "url": "",
       "startDate": "2016-03",
       "endDate": "2016-08",
-      "summary": "Provided remote technical / customer support for OpenTable restaurants and diners.",
-      "highlights": [
-        "Resolved technical issues with network configurations and OpenTable software."
-      ]
+      "summary": "",
+      "highlights": ["Provided remote technical / customer support for OpenTable restaurants and diners.", "Resolved technical issues with network configurations and OpenTable software."]
     },
     {
       "name": "Support.com",
@@ -101,10 +83,8 @@
       "url": "",
       "startDate": "2015-11",
       "endDate": "2016-03",
-      "summary": "Provided technical support for English and Spanish speaking clients.",
-      "highlights": [
-        "Educated clients on the use of their home security systems via phone and email instruction."
-      ]
+      "summary": "TEST",
+      "highlights": ["Educated clients on the use of their home security systems via phone and email instruction.", "Provided technical support for English and Spanish speaking clients."]
     },
     {
       "name": "Sixson Towers & Troop Insurance Company",
@@ -112,10 +92,8 @@
       "url": "",
       "startDate": "2010-05",
       "endDate": "2012-05",
-      "summary": "Built, maintained, and upgraded custom office staff computers.",
-      "highlights": [
-        "Installation and troubleshooting of printers, desktops, laptops, and all other hardware."
-      ]
+      "summary": "",
+      "highlights": ["Built, maintained, and upgraded custom office staff computers.", "Installation and troubleshooting of printers, desktops, laptops, and all other hardware."]
     }
   ],
   "education": [
@@ -233,19 +211,11 @@
   "interests": [
     {
       "name": "Cloud Technologies",
-      "keywords": [
-        "Hybrid Cloud",
-        "Cloud Security",
-        "Cloud Automation"
-      ]
+      "keywords": ["Hybrid Cloud", "Cloud Security", "Cloud Automation"]
     },
     {
       "name": "Data-Driven Strategies",
-      "keywords": [
-        "Data Analysis",
-        "Performance Optimization",
-        "Cost Efficiency"
-      ]
+      "keywords": ["Data Analysis", "Performance Optimization", "Cost Efficiency"]
     }
   ]
 }
